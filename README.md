@@ -1,7 +1,9 @@
 ArtGallery- Simple DBMS project in Python
 
-A simple Art Gallery DB System coded in Python using SQLite and Tkinter, with all Insert, Update, Delete, Search commands working.
+A simple Art Gallery DB System that coded in Python using SQLite and Tkinter, with all Insert, Update, Delete, Search commands working.
 Kindly run "dbms.py" first, followed by "artgal.py". (Username - "admin", Password - "pw")
+
+My very first Python project, so quite basic. 
 
 Requirements- Python: Version 3.x; Libraries: tkinter, sqlite3
 
